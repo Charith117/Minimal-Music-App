@@ -1,6 +1,4 @@
-Here’s a **README** section for your **Minimal Music App** built with **Flutter & Dart**:  
 
----
 
 # 🎵 Minimal Music App  
 
@@ -37,20 +35,4 @@ A sleek and lightweight music player built with **Flutter & Dart**, designed for
    flutter run
    ```
 
-## 📸 Screenshots  
-_(Add some screenshots of your app here for better visibility.)_  
 
-## 🔗 Download  
-_(If you have an APK or iOS TestFlight link, include it here.)_  
-
-## 🙌 Contributing  
-Feel free to submit issues or pull requests to improve this app.  
-
-## 📬 Contact  
-For feedback or suggestions, reach out via:  
-📧 Email: your-email@example.com  
-🔗 GitHub: [Your GitHub Profile](https://github.com/YourUsername)  
-
----
-
-Let me know if you'd like any tweaks! 🚀🎶
